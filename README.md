@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @Asfaqurrashid Sanchoy
 - 👀 I’m interested in Competitive Programming with C++, Machine Learning with Python and Android apps development with Java.
-- 🌱 I’m currently learning Full Stack Web Development with HTML, CSS, mysql and php.
+- 🌱 I’m currently learning Full Stack Web Development with HTML, CSS, MySQL and PHP.
 - 💞️ I’m looking to collaborate on an excellent team to work with future challenging software solutions.
 - 📫 How to reach me Email: asfaqurrashid@gmail.com
+                      Linkedln: https://www.linkedin.com/in/md-asfaqur-rashid-31173a197/
+                      Facebook: https://www.facebook.com/profile.php?id=100008748617581
+
 
 <!---
 Asfaqurrashid/Asfaqurrashid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
